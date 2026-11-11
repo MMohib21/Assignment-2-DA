@@ -32,8 +32,3 @@ Before changing any values, I planned to investigate:
 | Unusual prices | Flag for review; do not delete only because a value looks unusual | An unusual value may be genuine |
 | Source/data label | Preserve it | The label provides important context about the observations |
 | Original file | Keep unchanged and work on a copy | This preserves the original data |
-
-## 3. Commit
-
-- Message: `attempt-before-AI`
-- Commit hash: (paste after committing)
