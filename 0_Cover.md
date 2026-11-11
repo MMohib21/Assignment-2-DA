@@ -1,6 +1,7 @@
 # Cover Sheet
-- Name: Mohib
-- Course: ICA
+- Name: Muhammad Mohib
+- ERP ID: 36090
+- Course: ICA(101446)
 - Assignment: 2, The Dirty Ledger
 - Date: 11 Nov 2026
 ## Files in this folder
